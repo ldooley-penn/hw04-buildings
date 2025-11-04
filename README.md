@@ -23,4 +23,6 @@ I envision the procedural process of building this being:
 7. Use booleans or other methods for creating roofs.
 
 ### Assets
-I will need assets for brick walls, windows, fences, columns, wood panneling for walls, roof shingles, and sliding doors.
+I will need assets for windows with 2 and 3 panels, fenced balconies, doors, and a roof at a base level.
+
+## Building Process
